@@ -29,9 +29,3 @@ and registration service times under three workload scenarios:
 
 The dataset is used as the workload input for the performance
 simulation.
-
-## Project Structure
-
-- `dataset/` – Synthetic simulation dataset
-- `deliverable/` – Mini Project Deliverable document
-- `analysis/` – Simulation and analysis files
