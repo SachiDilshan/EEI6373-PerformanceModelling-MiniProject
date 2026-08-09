@@ -1,0 +1,4 @@
+Scenario,Arrival Rate (students/hour),Average Waiting Time (min),Median Waiting Time (min),P95 Waiting Time (min),Maximum Waiting Time (min),Average Time in System (min),Average Queue Length,Throughput (students/hour),Officer Utilization (%)
+Normal,10,6.89,3.91,23.95,32.37,11.04,1.14,9.87,67.99
+High,20,65.31,67.27,117.29,125.89,69.45,15.29,14.4,98.48
+Peak,25,93.05,95.74,168.44,176.99,97.2,22.04,14.48,99.01
